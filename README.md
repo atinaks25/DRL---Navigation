@@ -65,7 +65,7 @@ Note :
 - Manually playing with the environment has not been implemented as it is not available with Udacity Online Worspace (No Virtual Screen)    
 - Watching the trained agent playing in the environment has not been implemented neither, as it is not available with Udacity Online Worspace (No Virtual Screen) and not compatible with my personal setup (see Misc : Configuration used  section)
 
-### Misc : Configuration used 
+### Configuration used 
 
 This agent has been trained on the Udacity provided online workspace. This environment allows to use a Nvidia K80 GPU that is used for the training. (The headless / no visualization version of the Unity environment was thus used)
 
